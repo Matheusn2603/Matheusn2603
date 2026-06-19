@@ -41,12 +41,4 @@ Desenvolvedor Full Stack apaixonado por criar aplicações escaláveis, interfac
 
 ---
 
-## 📈 Estatísticas GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
-
----
-
 ⭐ Sempre explorando novas tecnologias e construindo projetos que fazem a diferença.
