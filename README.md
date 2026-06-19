@@ -48,11 +48,4 @@ Desenvolvedor Full Stack apaixonado por criar aplicações escaláveis, interfac
 
 ---
 
-## 📫 Contato
-
-- LinkedIn: https://linkedin.com/in/seu-perfil
-- Email: seuemail@exemplo.com
-
----
-
 ⭐ Sempre explorando novas tecnologias e construindo projetos que fazem a diferença.
