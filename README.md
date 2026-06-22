@@ -28,6 +28,7 @@ Desenvolvedor Full Stack apaixonado por criar aplicações escaláveis, interfac
 
 ### Ferramentas
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=fff)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=fff)
 
 ---
 
