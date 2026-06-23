@@ -19,9 +19,9 @@ Desenvolvedor Full Stack apaixonado por criar aplicações escaláveis, interfac
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=fff)
 ![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
 ![Fastify](https://img.shields.io/badge/Fastify-000?style=for-the-badge&logo=fastify)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=fff)
 
 ### Banco de Dados & ORM
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff)
