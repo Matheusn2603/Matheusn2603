@@ -40,6 +40,7 @@ Desenvolvedor Full Stack apaixonado por criar aplicações escaláveis, interfac
 
 ### Conhecimentos Adicionais
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
 ![GSAP](https://img.shields.io/badge/GSAP-4A8F29?style=for-the-badge&logo=greensock&logoColor=fff)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=fff)
