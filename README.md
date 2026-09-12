@@ -49,6 +49,7 @@ Desenvolvedor Full Stack apaixonado por criar aplicações escaláveis, interfac
 
 ## 💻 Sobre mim
 
+- ⌨️ Técnico em Informática 
 - 💻 Desenvolvimento Full Stack
 - 📱 Aplicações Mobile com React Native
 - 🖥️ Aplicações Desktop com Electron
