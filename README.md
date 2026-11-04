@@ -23,7 +23,6 @@ Desenvolvedor Full Stack apaixonado por criar aplicações escaláveis, interfac
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=fff)
 ![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
-![Fastify](https://img.shields.io/badge/Fastify-000?style=for-the-badge&logo=fastify)
 
 ### Banco de Dados & ORM
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff)
@@ -40,6 +39,7 @@ Desenvolvedor Full Stack apaixonado por criar aplicações escaláveis, interfac
 
 ### Conhecimentos Adicionais
 
+![Fastify](https://img.shields.io/badge/Fastify-000?style=for-the-badge&logo=fastify)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
 ![GSAP](https://img.shields.io/badge/GSAP-4A8F29?style=for-the-badge&logo=greensock&logoColor=fff)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
