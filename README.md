@@ -65,6 +65,7 @@ Desenvolvedor Full Stack apaixonado por criar aplicações escaláveis, interfac
 
 - **Jovem Aprendiz — Brazil Paraíba Mine**
   - Experiência profissional como Jovem Aprendiz.
+
   - Desenvolvimento de habilidades como organização, responsabilidade e trabalho em equipe.
 
 ---
