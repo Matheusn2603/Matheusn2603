@@ -61,6 +61,12 @@ Desenvolvedor Full Stack apaixonado por criar aplicações escaláveis, interfac
 - 🌐 APIs REST e arquiteturas escaláveis 
 - ⚡ Foco em boa organização, performance, qualidade de código e experiência do usuário
 
+## 💼 Experiência Profissional
+
+- **Jovem Aprendiz — Brazil Paraíba Mine**
+  - Experiência profissional como Jovem Aprendiz.
+  - Desenvolvimento de habilidades como organização, responsabilidade e trabalho em equipe.
+
 ---
 
 ⭐ Sempre explorando novas tecnologias e construindo projetos que fazem a diferença.
