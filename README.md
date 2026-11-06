@@ -37,6 +37,11 @@ Desenvolvedor Full Stack apaixonado por criar aplicações escaláveis, interfac
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=fff)
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=fff)
 
+### Pacote Office
+
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=fff)
+![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=fff)
+
 ### Conhecimentos Adicionais
 
 ![Fastify](https://img.shields.io/badge/Fastify-000?style=for-the-badge&logo=fastify)
