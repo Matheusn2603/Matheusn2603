@@ -31,6 +31,7 @@ Desenvolvedor Full Stack apaixonado por criar aplicações escaláveis, interfac
 
 ### Banco de Dados & ORM
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=fff)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=fff)
 
 ### Versionamento
